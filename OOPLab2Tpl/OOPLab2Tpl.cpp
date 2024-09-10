@@ -22,7 +22,9 @@ int main()
         cin.get();
 
         switch (ch) {
-        case '1': task1();   break;
+        case '1': task1(); 
+            Examples();
+            break;
         case '2': task1();   break;
         case '3': task1();   break;
         case '4': task1();   break;
